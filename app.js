@@ -1,2 +1,2 @@
-let bee = "The Hive is Active";
-alert(bee);
+// let bee = "The Hive is Active";
+// alert(bee);
