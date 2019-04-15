@@ -1,2 +1,4 @@
-// let bee = "The Hive is Active";
-// alert(bee);
+$(document).ready(function() {
+    $("#b").animate({left: "+=500"}, 2000);
+    $("#b").animate({left: "-=300"}, 1000);
+});
