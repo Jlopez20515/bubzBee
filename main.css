@@ -1,5 +1,10 @@
-body {
+html {
   text-align: center;
   padding: auto;
   margin: auto;
+  background-color: yellow;
+}
+
+h1, h3 {
+  margin-top: 100px;
 }
