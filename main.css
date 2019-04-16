@@ -1,10 +1,13 @@
-html {
-  text-align: center;
-  padding: auto;
-  margin: auto;
-  background-color: yellow;
+
+.flex-container {
+  display: flex;
+  background-color: dodgerblue;
+  flex-direction: row;
+  justify-content: center;
 }
 
-.container {
-  margin-top: 200px;
+.flex-container > div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
 }
