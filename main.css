@@ -1,13 +1,13 @@
 
-.flex-container {
+.nav {
   display: flex;
   background-color: dodgerblue;
-  flex-direction: row;
-  justify-content: center;
+  justify-content: flex-start;
+  border: solid black 1px;
 }
 
-.flex-container > div {
+.nav > div {
   margin: 10px;
   padding: 20px;
-  font-size: 30px;
+  font-size: 20px;
 }
